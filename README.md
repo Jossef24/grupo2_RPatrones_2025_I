@@ -18,7 +18,7 @@ Para superar esta limitación, es necesario explorar tecnologías avanzadas como
 
 ## Metodología
 ### Dataset
-Se utilizó el conjunto de datos público *Hyser*, que contiene señales HD-sEMG de 256 canales adquiridas a 2048 Hz, con 34 gestos manuales registrados en 20 participantes sanos (12 hombres, 8 mujeres, 22–34 años).
+Se utilizó el conjunto de datos público *Hyser* [4], que contiene señales HD-sEMG de 256 canales adquiridas a 2048 Hz, con 34 gestos manuales registrados en 20 participantes sanos (12 hombres, 8 mujeres, 22–34 años).
 Las señales se estructuran en cinco subconjuntos: reconocimiento de patrones (PR), contracción voluntaria máxima (MVC), 1-DoF, N-DoF y tareas aleatorias.
 
 ### Preprocesamiento
@@ -46,3 +46,9 @@ En el caso específico de la CNN, aunque durante el entrenamiento se observaron 
 ✔ **Regresión Logística** alcanzó el máximo accuracy (60.48 %)<br>
 ✔ Importancia crítica de la selección y optimización de características para aplicaciones protésicas.<br>
 ✔ Como recomendaciones **futuras** es llegar implementar métodos avanzados de reducción de dimensionalidad y aplicar técnicas de aumento de datos para mejorar la generalización de redes profundas.<br>
+
+# Bibliografía
+[1] “Amputaciones y desarticulaciones de los miembros: miembro superior”, EMC - Téc. Quirúrgicas - Ortop. Traumatol., vol. 13, núm. 4, pp. 1–18, dic. 2021, doi: 10.1016/S2211-033X(21)45768-3.
+[2] J. L. Vara Mayo, “Evaluación de funcionalidad y calidad de vida en personas con amputación de miembro superior usuarias y no usuarias de prótesis”, bachelor thesis, 2020. Consultado: el 14 de mayo de 2025. [En línea]
+[3] W. Nishino, Y. Yamanoi, Y. Sakuma, y R. Kato, “Development of a myoelectric prosthesis simulator using augmented reality”, en 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, AB: IEEE, oct. 2017, pp. 1046–1051. doi: 10.1109/SMC.2017.8122749.
+[4] X. Jiang et al., “Open Access Dataset, Toolbox and Benchmark Processing Results of High-Density Surface Electromyogram Recordings” IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 1035–1046, 2021, doi: https://doi.org/10.1109/tnsre.2021.3082551.
