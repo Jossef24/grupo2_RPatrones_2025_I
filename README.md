@@ -4,10 +4,10 @@
 
 | Foto | Descripción |
 |---|---|
-| Foto de Nicolle | **Nicolle Muñoz** *nicolle.munoz@upch.pe* Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. | 
-| Foto de Jose | **Nicolle Muñoz** *nicolle.munoz@upch.pe* Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. |
-| Foto de Franco | **Nicolle Muñoz** *nicolle.munoz@upch.pe* Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. | 
-| Foto de Jossef | **Nicolle Muñoz** *nicolle.munoz@upch.pe* Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. | 
+|<div align="center"><image src="https://github.com/Challenges/Integrantes/Foto_Nicolle.jpeg" width="200px" height="270px">| **Nicolle Muñoz**<br>*nicolle.munoz@upch.pe*<br>Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. | 
+| Foto de Jose | **Nicolle Muñoz**<br>*nicolle.munoz@upch.pe*<br>Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. |
+| Foto de Franco | **Nicolle Muñoz**<br>*nicolle.munoz@upch.pe*<br>Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. | 
+| Foto de Jossef | **Nicolle Muñoz**<br>*nicolle.munoz@upch.pe*<br>Estudiante de Ingeniería Biomédica en 9no ciclo, con interés en la aplicación de tecnologías emergentes en salud como impresión 3D. Tengo experiencia en la investigación de tecnología médica aplicada a la formación de personal de salud, desarrollando simuladores médicos. | 
 
 ## Proyecto de curso
 ### Descripción del proyecto
