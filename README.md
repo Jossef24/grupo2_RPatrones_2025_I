@@ -19,13 +19,9 @@ Para superar esta limitación, es necesario explorar tecnologías avanzadas como
 ## Metodología
 ### Dataset
 Se utilizó el conjunto de datos público *Hyser* [4], que contiene señales HD-sEMG de 256 canales adquiridas a 2048 Hz, con 34 gestos manuales registrados en 20 participantes sanos (12 hombres, 8 mujeres, 22–34 años).
-<div align="center"><image src="https://github.com/Jossef24/grupo2_RPatrones_2025_I/blob/main/Imagenes/hyserImagen.jpeg" width="400px" height="200px">
+[!Hyser](Imagenes/hyserImagen.jpeg)
   
 Las señales se estructuran en cinco subconjuntos: reconocimiento de patrones (PR), contracción voluntaria máxima (MVC), 1-DoF, N-DoF y tareas aleatorias.
-
-<div align="normal">
-</p>
-<br>
 
 ### Preprocesamiento
 Se aplicó normalización tipo z-score para reducir la variabilidad entre sujetos. Las señales fueron recortadas a 0.5 segundos finales de cada contracción, eliminando la transición desde el estado relajado.
