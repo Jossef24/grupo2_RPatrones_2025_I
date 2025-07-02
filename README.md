@@ -41,7 +41,7 @@ Para una comparación justa y rigurosa, todos los modelos fueron entrenados y ev
 En el caso específico de la CNN, aunque durante el entrenamiento se observaron altos valores de exactitud (superiores al 90% en las últimas épocas), este rendimiento no se replicó en el conjunto de prueba, lo que indica un problema de *sobreajuste*. 
 
 ## Conclusiones 
-✔ Mejor desempeño de los modelos tradicionales de machine learning frente al CNN en este contexto.
-✔ **Regresión Logística** alcanzó el máximo accuracy (60.48 %)
-✔ Importancia crítica de la selección y optimización de características para aplicaciones protésicas.
-✔ Como recomendaciones **futuras** es llegar implementar métodos avanzados de reducción de dimensionalidad y aplicar técnicas de aumento de datos para mejorar la generalización de redes profundas.
+✔ Mejor desempeño de los modelos tradicionales de machine learning frente al CNN en este contexto.<br>
+✔ **Regresión Logística** alcanzó el máximo accuracy (60.48 %)<br>
+✔ Importancia crítica de la selección y optimización de características para aplicaciones protésicas.<br>
+✔ Como recomendaciones **futuras** es llegar implementar métodos avanzados de reducción de dimensionalidad y aplicar técnicas de aumento de datos para mejorar la generalización de redes profundas.<br>
